@@ -292,7 +292,10 @@ body{
   background: #004265;
   border-radius:20px;
   color: #fff;
-  padding: 0.7rem 1.5rem;
+  width: 95px;
+  height: 30px;
+  text-align: center;
+  padding: 10px 0 0 0;
   transition: opacity 1s ease-sin-out;
   text-decoration: none;
   margin-left: 212px;
