@@ -91,10 +91,11 @@
 body{
   background-image: url('../images/p_bg.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .letter {
-  margin: 150px auto;
+  margin: 64px auto;
   max-width: 350px;
   height: 375px;
   position: relative;
